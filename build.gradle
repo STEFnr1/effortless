@@ -1,6 +1,4 @@
-plugins {
-    id 'dev.huskuraft.universal' version '0.2.0'
-}
+
 
 java {
     sourceCompatibility = JavaVersion.VERSION_17
